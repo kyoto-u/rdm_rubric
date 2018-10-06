@@ -105,7 +105,7 @@ The four levels “ad hoc”, “one-time”, “active and informative” and �
 
 - One-time: After I finish my analysis, I document the specific parameters, procedures, and protocols applied. 
 
-  自身の解析作業が終わった時に、「特別な」パラメータや解析手順、プロトコルについては文書化している。 
+  自身の解析作業が終わった時に、適用した詳細なパラメータや解析手順、プロトコルを文書化している。 
 
 - Active and Informative: I regularly report the specifics of both my analysis workflow and decision making process while I am analyzing my data. 
   
@@ -131,4 +131,4 @@ The four levels “ad hoc”, “one-time”, “active and informative” and �
 
 - Optimized for re-use: Because of my excellent data management practices, I am able to efficiently share my data whenever I need to with whomever I need to. 
 
-  優れたデータマネジメントを実践することで、自身のデータをいつでもだれとでも効率的に共有できる。 
+  優れたデータマネジメントを実践することで、必要な場合、自身のデータをいつでもだれとでも効率的に共有できる。 
