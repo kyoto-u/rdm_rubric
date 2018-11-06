@@ -5,6 +5,7 @@ California Digital Library でデザインされた研究データマネジメ�
 
 ## このレポジトリに含まれるもの
 rubric.md : RDM rubric 抄訳
+
 oo_201006-2.odp : rubric テーブルの和英対訳
 
 ## ライセンス
