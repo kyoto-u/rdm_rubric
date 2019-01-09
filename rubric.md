@@ -13,19 +13,19 @@ The four levels “ad hoc”, “one-time”, “active and informative” and �
  
 - Ad hoc — Refers to circumstances in which practices are neither standardized or documented. Every time a researcher has to manage their data they have to design new practices and procedures from scratch. 
   
-  Ad-hoc (その場しのぎ的な対応)とは、方法(practices)が標準化も文書化もされていない状態を指す。研究者はデータマネジメントを必要とされるたびに、新しい方法や手続き(procedure)を1から作らなくてはならない。 
+  Ad-hoc (その都度)とは、方法(practices)が標準化も文書化もされていない状態を指す。研究者はデータマネジメントを必要とされるたびに、新しい手法や手続き(procedure)を1から作らなくてはならない。 
  
 - One time — Refers to circumstances in which data management occurs only when it is necessary, such as in direct response to a mandate from a funder or publisher. Practices or procedures implemented at one phase of a project are not designed with later phases in mind. 
   
-  One Time(1回はできている)とは、資金提供者(fund)や出版社からの直接的な要求等、必要に駆られて1回のみデータマネジメントが実施された状態を指す。方法や手続きは研究プロジェクトのある特定の段階(phase、ここでは表の各列を指す)において実装されているが、他の段階を考慮して設計はされていない。 
+  One Time(1度のみ)とは、資金提供者(fund)や出版社からの直接的な要求等、必要に駆られて1回のみデータマネジメントが実施された状態を指す。方法や手続きは研究プロジェクトのある特定の段階(phase、ここでは表の各列を指す)において実装されているが、他の段階を考慮して設計はされていない。 
  
 - Active and informative — Refers to circumstances in which data management is a regular part of the research process. Practices and procedures are standardized, well documented, and well integrated with those implemented at other phases. 
   
-  Active and Informative(有効かつ有用)とは、データマネジメントが研究プロセスの標準的な内容となっている状態を指す。方法と手順は標準化、文書化され、さらに他の段階において実装された方法、手順と連携できている。 
+  Active and Informative(有効に活用)とは、データマネジメントが研究プロセスの標準的な内容となっている状態を指す。方法と手順は標準化、文書化され、さらに他の段階において実装された方法、手順と連携できている。 
  
 - Optimized for re-use — Refers to circumstances in which data management activities are designed to facilitate the re-use of data in the future 
   
-  Optimized for re-use (再利用のために最適化済み)とは、将来のデータ再利用性を高めるために、データマネジメントに関する活動が設計されている状態を指す。 
+  Optimized for re-use (再利用のために最適化)とは、将来のデータ再利用性を高めるために、データマネジメントに関する活動が設計されている状態を指す。 
 
 # それぞれの段階(phase)における成熟度の評価基準 
  
