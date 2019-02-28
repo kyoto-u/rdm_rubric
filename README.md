@@ -5,6 +5,7 @@ California Digital Library でデザインされた研究データマネジメ�
 
 ## 参照元
 この翻訳の参照元となった文書は以下のものです。
+
 The original material to be translated is available from 
 
 * John A Borghi, Stephen Abrams, Daniella Lowenberg, Stephanie Simms, John Chodacki, "Support Your Data: A Research Data Management Guide for Researchers", https://doi.org/10.3897/rio.4.e26439
